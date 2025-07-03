@@ -1,0 +1,10 @@
+# some dependencies
+!pip install missingno
+!pip install imblearn
+!pip install mlxtend
+!pip install sklearn_pandas
+!pip install catboost
+!pip install category_encoders
+!pip install pandas_profiling
+!pip install xgboost
+!pip install lightgbm
